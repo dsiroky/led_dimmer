@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-30 BZR 4648)-product date = Po 3. únor 2014, 20:26:32 CET
+
+BeginCmp
+TimeStamp = /52EFC751;
+Reference = C1;
+ValeurCmp = 220u/16V;
+IdModule  = ds:cpol_3.5_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC688;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC69A;
+Reference = C3;
+ValeurCmp = 10n;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFCA80;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC71E;
+Reference = D1;
+ValeurCmp = BAS85;
+IdModule  = ds:minimelf;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC730;
+Reference = D2;
+ValeurCmp = BAS85;
+IdModule  = ds:minimelf;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC779;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = ds:ark550_2ex;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFCA8B;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = ds:ark550_2ex;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC765;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = ds:sot23_gds;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC70A;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC7A4;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = ds:sm0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC73D;
+Reference = RV1;
+ValeurCmp = 50k;
+IdModule  = ds:pot_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EFC61E;
+Reference = U1;
+ValeurCmp = 555;
+IdModule  = ds:so8e;
+EndCmp
+
+EndListe
